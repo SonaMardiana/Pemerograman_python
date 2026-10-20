@@ -1,3 +1,0 @@
-Belajar Python membantu mahasiswa memahami string list set dan dictionary.
-Python juga digunakan untuk mengolah data teks dan menghitung frekuensi kata.
-Dengan latihan Python mahasiswa dapat memahami struktur data secara lebih baik.
