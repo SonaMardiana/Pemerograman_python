@@ -1,0 +1,142 @@
+{
+    "sumber": "https://jsonplaceholder.typicode.com/posts",
+    "jumlah_data_api": 100,
+    "kriteria_filter": "Panjang judul lebih dari 50 karakter",
+    "jumlah_data_terpilih": 22,
+    "total_kata_pada_data_terpilih": 530,
+    "rata_rata_kata_per_post": 24.09,
+    "posts": [
+        {
+            "id": 21,
+            "userId": 3,
+            "judul": "asperiores ea ipsam voluptatibus modi minima quia sint",
+            "jumlah_kata": 24
+        },
+        {
+            "id": 42,
+            "userId": 5,
+            "judul": "commodi ullam sint et excepturi error explicabo praesentium voluptas",
+            "jumlah_kata": 25
+        },
+        {
+            "id": 60,
+            "userId": 6,
+            "judul": "consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere",
+            "jumlah_kata": 21
+        },
+        {
+            "id": 73,
+            "userId": 8,
+            "judul": "consequuntur deleniti eos quia temporibus ab aliquid at",
+            "jumlah_kata": 24
+        },
+        {
+            "id": 85,
+            "userId": 9,
+            "judul": "dolore veritatis porro provident adipisci blanditiis et sunt",
+            "jumlah_kata": 24
+        },
+        {
+            "id": 3,
+            "userId": 1,
+            "judul": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+            "jumlah_kata": 26
+        },
+        {
+            "id": 43,
+            "userId": 5,
+            "judul": "eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis",
+            "jumlah_kata": 29
+        },
+        {
+            "id": 74,
+            "userId": 8,
+            "judul": "enim unde ratione doloribus quas enim ut sit sapiente",
+            "jumlah_kata": 26
+        },
+        {
+            "id": 38,
+            "userId": 4,
+            "judul": "explicabo et eos deleniti nostrum ab id repellendus",
+            "jumlah_kata": 30
+        },
+        {
+            "id": 49,
+            "userId": 5,
+            "judul": "laborum non sunt aut ut assumenda perspiciatis voluptas",
+            "jumlah_kata": 25
+        },
+        {
+            "id": 84,
+            "userId": 9,
+            "judul": "optio ipsam molestias necessitatibus occaecati facilis veritatis dolores aut",
+            "jumlah_kata": 20
+        },
+        {
+            "id": 79,
+            "userId": 8,
+            "judul": "pariatur consequatur quia magnam autem omnis non amet",
+            "jumlah_kata": 24
+        },
+        {
+            "id": 96,
+            "userId": 10,
+            "judul": "quaerat velit veniam amet cupiditate aut numquam ut sequi",
+            "jumlah_kata": 20
+        },
+        {
+            "id": 59,
+            "userId": 6,
+            "judul": "qui commodi dolor at maiores et quis id accusantium",
+            "jumlah_kata": 32
+        },
+        {
+            "id": 52,
+            "userId": 6,
+            "judul": "qui enim et consequuntur quia animi quis voluptate quibusdam",
+            "jumlah_kata": 23
+        },
+        {
+            "id": 50,
+            "userId": 5,
+            "judul": "repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem",
+            "jumlah_kata": 26
+        },
+        {
+            "id": 16,
+            "userId": 2,
+            "judul": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
+            "jumlah_kata": 28
+        },
+        {
+            "id": 51,
+            "userId": 6,
+            "judul": "soluta aliquam aperiam consequatur illo quis voluptas",
+            "jumlah_kata": 17
+        },
+        {
+            "id": 1,
+            "userId": 1,
+            "judul": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "jumlah_kata": 23
+        },
+        {
+            "id": 99,
+            "userId": 10,
+            "judul": "temporibus sit alias delectus eligendi possimus magni",
+            "jumlah_kata": 17
+        },
+        {
+            "id": 45,
+            "userId": 5,
+            "judul": "ut numquam possimus omnis eius suscipit laudantium iure",
+            "jumlah_kata": 18
+        },
+        {
+            "id": 63,
+            "userId": 7,
+            "judul": "voluptas blanditiis repellendus animi ducimus error sapiente et suscipit",
+            "jumlah_kata": 28
+        }
+    ]
+}
